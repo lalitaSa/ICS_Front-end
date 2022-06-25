@@ -37,9 +37,9 @@ export default function SingleProductDesktop({ product, matches }) {
         </Typography>
         </ProductMetaWrapper>
         <ProductImage src={product.images} />
-        <ProductStartButton>
+        <ProductStarButton>
           <StarIcon />{product.rating}
-        </ProductStartButton>
+        </ProductStarButton>
 
         <ProductActionsWrapper show={showOptions || matches}>
           <Stack direction={matches ? "row" : "column"}>

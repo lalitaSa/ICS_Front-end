@@ -2,7 +2,7 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd ../ICS_Front-end
 $ npm install
 $ npm install @mui/icons-material 
 $ npm install @fontsource/montez  

@@ -1,10 +1,15 @@
-# Install
+## Setup
+To run this project, install it locally using npm:
 
-npm install @mui/icons-material
-npm install @fontsource/montez  
-npm install @mui/material @emotion/react @emotion/styled
-npm install @material-ui/icons
-
+```
+$ cd ../lorem
+$ npm install
+$ npm install @mui/icons-material 
+$ npm install @fontsource/montez  
+$ npm install @mui/material @emotion/react @emotion/styled
+$ npm install @material-ui/icons
+$ npm start
+```
 
 # Getting Started with Create React App
 
